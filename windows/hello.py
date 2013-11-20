@@ -1,6 +1,8 @@
 #! C:/Python27/python.exe
 # -*- coding: utf-8 -*- 
 
+# これはコメントです
+
 print u"helloモジュールのロード"
 
 def say_hello():
