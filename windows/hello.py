@@ -22,3 +22,19 @@ if __name__ == "__main__":
   print multiline
 
   print str(100 + 20) + u"円"
+  
+  v = "aaa"
+  v += "bbb"
+  v += "ccc"
+  
+  print v
+
+  print 3.141592
+
+  # タプル型
+  print "aaaaa-bbbbb-ccccc".split("-")
+
+  print "12".zfill(10)
+
+  print "aaa" in multiline
+  print "qq" in multiline
