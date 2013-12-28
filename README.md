@@ -1,4 +1,5 @@
-# Python Study
+Python Study
+==================
 
 Pythonの学習。
 
